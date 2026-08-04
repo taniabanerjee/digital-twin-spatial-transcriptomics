@@ -159,17 +159,15 @@ The current study has several important limitations:
 
 ## Citation
 
-If you use HyperNiche or build upon this work, please cite:
+If you use HyperNiche or build upon this work, please cite the extended technical report:
 
 ```bibtex
-@misc{mahmud2026hyperniche,
-  title        = {HyperNiche: Learning Spatially Localized Higher-Order Cellular Neighborhoods},
-  author       = {Mahmud, Md Ishtyaq and
-                  Venkata, Anish Turumala and
-                  Chitrala, Kumaraswamy Naidu and
-                  Banerjee, Tania},
+@misc{mahmud_hyperniche_extended,
+  author       = {Mahmud, Md Ishtyaq and Venkata, Anish Tirumala and Chitrala, Kumaraswamy Naidu and Banerjee, Tania},
+  title        = {{HyperNiche}: Learning Spatially Localized Higher-Order Cellular Neighborhoods: Technical Report},
   year         = {2026},
-  note         = {Manuscript}
+  howpublished = {\url{https://raw.githubusercontent.com/taniabanerjee/digital-twin-spatial-transcriptomics/main/papers/PSB2026/HyperNicheV1.pdf}},
+  note         = {Extended technical report}
 }
 ```
 
